@@ -1,0 +1,29 @@
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\final project.exe
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\final project.deps.json
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\final project.runtimeconfig.json
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\final project.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\final project.pdb
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\FSharp.Core.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.fsproj.AssemblyReference.cache
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.AssemblyInfoInputs.cache
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.AssemblyInfo.fs
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.fsproj.CoreCompileInputs.cache
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final pr.4C4D7D4F.Up2Date
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.dll
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\refint\final project.dll
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.pdb
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\final project.genruntimeconfig.cache
+C:\Users\hoor hazem\source\repos\final project\final project\obj\Debug\net8.0-windows\ref\final project.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzkuXfcSv4o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoor hazem\\source\\repos\\final project\\final project\\final project.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoor hazem\\.nuget\\packages\\fsharp.core\\10.0.100\\fsharp.core.10.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}

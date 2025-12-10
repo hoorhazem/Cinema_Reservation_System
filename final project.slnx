@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="final project.Tests/final project.Tests.fsproj" Id="7d663bfe-da38-4efd-ab21-a8e2e444ff33" />
+  <Project Path="final project/final project.fsproj" />
+</Solution>
