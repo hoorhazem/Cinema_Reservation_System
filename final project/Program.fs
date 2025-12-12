@@ -2,7 +2,7 @@
 open System.Drawing
 open System.Windows.Forms
 open System.IO
-open CinemaLogic  // استدعاء الـmodule
+open CinemaLogic  
 
 let rows = 5
 let cols = 6
